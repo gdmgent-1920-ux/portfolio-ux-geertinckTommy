@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Geerinck Tommy
 
-## Group:
+## Group: 1AVDa
 
 ## Getting Started
 
