@@ -1,0 +1,14 @@
+/**
+*variables
+*/
+
+:root {
+    --color-black: #707070;
+    --color-purple: #8E58B7;
+    --color-verylightblue: #F1F9FF;
+    --color-lightblue: #BCE0FD;
+    --color-blue: #2699FB;
+    --color-white: #ffffff;
+
+    --text-font: 'Montserrat', sans-serif;
+}

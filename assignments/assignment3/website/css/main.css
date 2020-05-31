@@ -1,0 +1,219 @@
+/**
+* main css
+*/ 
+
+body{
+    background-color: var(--color-verylightblue);
+    font-family: var(--text-font);
+    color: var(--color-blue);
+}
+
+img{
+    width: 100%;
+}
+
+/**
+*Menu
+*/
+.Menu .row{
+    height: 50%;
+}
+
+.col-12 ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.talenten
+{
+    margin-top: 20px;
+    padding: 35px;
+}
+
+.col-12 .talent{
+    background-color: var(--color-lightblue);
+    padding: 33px;
+    margin-bottom: 50px;
+}
+
+/**
+* olifant
+*/
+
+.col-10{
+    align-items: center;
+    margin-left: 30px;
+}
+
+
+
+/**
+* sign up
+*/
+
+form input{
+    margin-top: 50px;
+    border: none;
+    width: 100%;
+    background-color: transparent;
+    border-bottom: 1px solid var(--color-blue);
+    padding: 5px;
+}
+
+
+/** 
+* header
+*/
+
+header{
+    padding: 1rem;
+}
+
+header ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+/**
+*footer
+*/
+
+footer{
+    background-color: var(--color-blue);
+    color: var(--color-white);
+    padding: 0.4rem;
+}
+
+footer ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+/**
+* buttons
+*/
+
+a{
+    text-decoration: none;
+    font-weight: 400;
+}
+
+a.first-link{
+    background-color: var(--color-blue);
+    color: var(--color-white);
+    text-align: center;
+    padding: 20px 5px 15;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+a.second-link{
+    border-color: var(--color-blue);
+    border: 0.5px;
+    border-style: solid;
+}
+
+
+/*
+* input
+*/
+
+.signin form input[type="Naam"],
+.signin form input[type="Email"],
+.signin form input[type="Wachtwoord"],
+.signin form input[type="Geboortedag"],
+.signin form input[type="Land"],
+.signin form input[type="Gemeente"]{
+    margin-top: 15px;
+    width: 100%;
+    background-color: transparent;
+    border-bottom: 1px solid var(--color-blue);
+    padding: 5px;
+}
+
+
+/**
+* card
+*/
+
+.card {
+    margin-top: -5px;
+    background-color: var(--color-blue);
+    color: var(--color-white);
+}
+
+.cardinfo{
+    margin: 15px;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+* ul
+*/
+
+ul{
+    list-style: none;
+    padding: 0;
+}
